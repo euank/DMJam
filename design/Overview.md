@@ -72,4 +72,33 @@ Each player controls a limited set of creatures.
 ### DM
 The DM begins with a system-provided database of map-pieces including terrain,
 objects, and creatures. The DM may also upload any image and give it a name to
-include as a map-piece. 
+include as a map-piece. The DM is provided an interface to view any of the
+following
+* creatures
+* spells
+* skills (or just hardcode them all to begin with)
+* feats (bonus feature)
+* Equipment
+* terrain
+* map fragments (such as cities)
+* the map
+* the overview zoomed-out map.
+* Players
+
+The view screen shows a list and has searching capabilities. Items may be added,
+edited, or removed.
+
+The DM will edit each item appropriately. When ready, she will add players for
+her campaign. Adding a player will generate a 'player link' which will be
+provided to the player in place of a username/password.
+
+At a later date, the DM may start a session. Only one session may ever be in
+progress at a time. TODO complete this section
+
+### Player
+A player will follow a provided 'player-link'. This link will prompt them to
+create a character. Doing this will include inputting, at a minimum, a name,
+health, saves, and skills. The player may upload an avatar/image to be used on
+the map or select one from a pre-existing list of 'character' texture tiles.
+TODO
+
