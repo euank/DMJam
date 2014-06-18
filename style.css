@@ -1,0 +1,15 @@
+.grid td{
+	background-color: grey;
+	border: 1px solid #ccc;
+	height: 50px;
+	width: 50px;
+	margin: 5px;
+}
+
+.grid td.unclicked{
+	background-color: grey;
+}
+
+.grid td.clicked{
+	background-color: blue;
+}
